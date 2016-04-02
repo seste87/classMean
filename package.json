@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "angular": "^1.5.3",
+    "body-parser": "1.15.0",
+    "mongoose": "4.4.10"
+  }
 }

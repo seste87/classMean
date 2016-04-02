@@ -1,4 +1,14 @@
+'use strict';
+
+var angular = require('angular');
+
 angular.module("todoListApp", []);
+
+require('./js/controllers/main.js');
+
+require('./js/directives/todos.js');
+
+require('./js/services/data.js');
 
 
 
